@@ -19,6 +19,12 @@ from operator import itemgetter
 # Run the code (Google Colab)
 Go to runtime and hit 'run all'
 
+# Dataset
+1. Resale transaction by flat type based on registered cases
+2. HDB resale price index
+3. Resale flat prices
+I obtained the dataset from the Data.gov.sg website. All the data is in English and presented in Excel format.
+
 # Usage
 Run the code to view the different types of plots generated. Each graph provides a unique perspective on the dataset. For instance, use the line graph to observe the resale price index over time, the bar charts to analyze the total number and average of resale transactions by flat type, the boxplot to explore the distribution of resale prices across towns and floor levels, and the scatter plots to examine the relationship between resale prices and factors like floor area and remaining lease.
 
